@@ -2,7 +2,7 @@
 
 This repository contains a Streamlit app for customer churn prediction. The app allows users to input customer details and predicts whether a customer is likely to churn or not based on the provided information.
 
-## Streamlit App
+## [Streamlit App](https://rauhan-sheikh-customerchurnprediction-app-35g08h.streamlit.app/)
 
 The Streamlit app can be accessed [here](https://rauhan-sheikh-customerchurnprediction-app-35g08h.streamlit.app/). It provides a user-friendly interface to input customer details and obtain churn predictions.
 
