@@ -4,7 +4,7 @@ import joblib
 from PIL import Image
 
 # Load the pickled model
-pipeline = joblib.load('pipeline2.pkl')
+pipeline = joblib.load('pipeline.pkl')
 
 # Define the dropdown options
 gender_options = ['Male', 'Female']
