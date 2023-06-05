@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load the pickled model
-pipeline = joblib.load('pipeline.pkl')
+pipeline = joblib.load('pipeline2.pkl')
 
 # Define the dropdown options
 gender_options = ['Male', 'Female']
